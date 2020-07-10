@@ -21,4 +21,7 @@ Being a founder of InfiWebs and the brain behind Elegant Elements for Fusion Bui
 
 Some of the links to learn more about me - 
 
-(Codecanyon)[https://codecanyon.net/user/infiwebs/portfolio] (Codeable)[https://www.infiwebs.com/go/codeable] (LinkedIn)[https://www.linkedin.com/in/nitinyawalkar] (Facebook)[https://www.facebook.com/Yawalkar.Nitin/]
+- [Codecanyon](https://codecanyon.net/user/infiwebs/portfolio) 
+- [Codeable](https://www.infiwebs.com/go/codeable)
+- [LinkedIn](https://www.linkedin.com/in/nitinyawalkar)
+- [Facebook](https://www.facebook.com/Yawalkar.Nitin/)
